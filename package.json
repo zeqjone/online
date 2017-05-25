@@ -1,0 +1,34 @@
+{
+  "name": "chat-online",
+  "version": "1.0.0",
+  "description": "Chat online aims to build a app for users to chat friendly by usingwebsocket on the platform of nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeqjone/online.git"
+  },
+  "keywords": [
+    "chat",
+    "online",
+    "websocket",
+    "react",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "'zeq' <'zeq_Jone@163.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeqjone/online/issues"
+  },
+  "homepage": "https://github.com/zeqjone/online#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.0"
+  }
+}
