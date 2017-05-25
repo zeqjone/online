@@ -2,7 +2,7 @@
   "name": "chat-online",
   "version": "1.0.0",
   "description": "Chat online aims to build a app for users to chat friendly by usingwebsocket on the platform of nodejs.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "test"
   },
@@ -26,7 +26,9 @@
   "homepage": "https://github.com/zeqjone/online#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "mysql": "^2.13.0"
+    "log4js": "^1.1.1",
+    "mysql": "^2.13.0",
+    "react": "^15.5.4"
   },
   "devDependencies": {
     "webpack": "^2.6.0"
