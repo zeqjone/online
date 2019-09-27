@@ -1,6 +1,6 @@
 {
   "name": "chat-online",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Chat online aims to build a app for users to chat friendly by usingwebsocket on the platform of nodejs.",
   "main": "main.js",
   "scripts": {
